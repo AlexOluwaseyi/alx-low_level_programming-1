@@ -1,8 +1,13 @@
-#include<stdio.h>
+#include <stdio.h>
+
 /**
- * main - A program that prints the size of various computer types
- * Return 0 (Success)
+ * main - Entry point
+ *
+ * Description: 'prints the size of various types on the computer it is compiled and run on'
+ *
+ * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	char a;
