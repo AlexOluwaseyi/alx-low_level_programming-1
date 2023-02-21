@@ -8,9 +8,9 @@ include "main.h"
  *
  * Return: no return
  */
-void print_times_table(int n)
+extern void print_times_table(int n)
 {
-	int a, b, op;
+	inna, b, op;
 
 	if (n >= 0 && n <= 15)
 	{
